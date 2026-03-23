@@ -1,0 +1,3 @@
+[submodule "Grippy-Frontend"]
+	path = Grippy-Frontend
+	url = https://github.com/Blackflame796/Grippy-Frontend.git
